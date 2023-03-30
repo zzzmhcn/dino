@@ -8,9 +8,9 @@
 方便之后用于tomcat/nginx的错误页面配置。
 
 ## 在线演示地址
-404错误页面： [https://tczmh.gitee.io/dino/404.html](https://tczmh.gitee.io/dino/404.html)
+404错误页面： [https://zzzmhcn.gitee.io/dino/404.html](https://zzzmhcn.gitee.io/dino/404.html)
 
-502错误页面： [https://tczmh.gitee.io/dino/502.html](https://tczmh.gitee.io/dino/502.html)
+502错误页面： [https://zzzmhcn.gitee.io/dino/502.html](https://zzzmhcn.gitee.io/dino/502.html)
 
 ## 截图
 #### 404 错误页面
